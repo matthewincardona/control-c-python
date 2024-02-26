@@ -1,3 +1,4 @@
+dearpygui==1.10.1
 pyasn1==0.5.1
 PySimpleGUI==5.0.2
 rsa==4.9
